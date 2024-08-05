@@ -1,3 +1,4 @@
 Calculadora Feita em JS
 
-Deploy: 
+Deploy no netlify = https://calcula-js-oo.netlify.app
+
